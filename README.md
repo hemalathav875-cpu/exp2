@@ -22,7 +22,7 @@ print(matrix)
 
 ## Output:
 
-![alt text](image.png)
+![alt text](<Screenshot 2026-02-03 112725-1.png>)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
